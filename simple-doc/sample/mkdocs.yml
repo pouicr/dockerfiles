@@ -2,4 +2,4 @@ site_name: MyDoc
 site_url: https://pouicr.github.com
 repo_url: https://github.com/pouicr/dockerfiles
 dev_addr: 0.0.0.0:8000
-theme_dir: /theme
+#theme_dir: /theme
