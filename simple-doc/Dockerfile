@@ -2,7 +2,7 @@ FROM debian:jessie
 
 MAINTAINER loic.rodier@gmail.com
 
-RUN apt-get update \
+RUN apt-get update --fix-missing\
     && apt-get install -y python-pip python-dev build-essential \
     && pip install mkdocs \
     && apt-get clean
