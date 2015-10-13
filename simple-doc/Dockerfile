@@ -9,13 +9,13 @@ RUN apt-get update \
 
 ADD theme /theme
 
-RUN useradd doc
+#RUN useradd doc
 RUN mkdir /work
-RUN chown doc:doc /work
+#RUN chown doc:doc /work
 
 WORKDIR /work
 
-USER doc
+#USER doc
 
 ENTRYPOINT ["mkdocs"]
 CMD ["serve"]
