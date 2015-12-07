@@ -1,0 +1,2272 @@
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-12-07 15:00:27+000
+
+URL        `https://pouicr.github.com/'
+Parent URL http://localhost:8000, line 9, col 9
+Real URL   https://pouicr.github.com/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000, line 78, col 21
+Real URL   http://localhost:8000
+Check time 0.013 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `.'
+Name       `Home'
+Parent URL http://localhost:8000, line 57, col 25
+Real URL   http://localhost:8000
+Check time 0.013 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `MyDoc'
+Parent URL http://localhost:8000, line 46, col 13
+Real URL   http://localhost:8000
+Check time 0.013 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `#demo'
+Name       `Demo'
+Parent URL http://localhost:8000, line 114, col 33
+Real URL   http://localhost:8000
+Check time 0.013 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000, line 137, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `#item-1'
+Name       `Item 1'
+Parent URL http://localhost:8000, line 116, col 17
+Real URL   http://localhost:8000
+Check time 0.013 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://localhost:8000'
+Real URL   http://localhost:8000
+Check time 0.013 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#item-2'
+Name       `Item 2'
+Parent URL http://localhost:8000, line 118, col 17
+Real URL   http://localhost:8000
+Check time 0.013 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./img/favicon.ico'
+Parent URL http://localhost:8000, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `./css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `./css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `./css/highlight.css'
+Parent URL http://localhost:8000, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `./css/base.css'
+Parent URL http://localhost:8000, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page2/'
+Name       `Page2'
+Parent URL http://localhost:8000, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/page2/, line 131, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `http://xxpwetww.fr'
+Name       `bad link'
+Parent URL http://localhost:8000/page2/, line 124, col 3
+Real URL   http://xxpwetww.fr
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `http://google.com'
+Name       `good link'
+Parent URL http://localhost:8000/page2/, line 123, col 3
+Real URL   http://google.com
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `#page-2'
+Name       `page 2'
+Parent URL http://localhost:8000/page2/, line 114, col 33
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/page2/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/page2/, line 78, col 21
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./'
+Name       `Page2'
+Parent URL http://localhost:8000/page2/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/page2/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `../css/highlight.css'
+Parent URL http://localhost:8000/page2/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `../css/base.css'
+Parent URL http://localhost:8000/page2/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `../css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/page2/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `../css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/page2/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `../img/favicon.ico'
+Parent URL http://localhost:8000/page2/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `https://pouicr.github.com/page2/'
+Parent URL http://localhost:8000/page2/, line 9, col 9
+Real URL   https://pouicr.github.com/page2/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `page1/'
+Name       `Page1'
+Parent URL http://localhost:8000, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 2.731 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/page1/, line 133, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `#menu'
+Name       `menu'
+Parent URL http://localhost:8000/page1/, line 116, col 17
+Real URL   http://localhost:8000/page1/
+Check time 2.731 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#page1'
+Name       `page1'
+Parent URL http://localhost:8000/page1/, line 114, col 33
+Real URL   http://localhost:8000/page1/
+Check time 2.731 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/page1/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `../page2/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000/page1/, line 89, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/page1/, line 78, col 21
+Real URL   http://localhost:8000/page1/
+Check time 2.731 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `../page2/'
+Name       `Page2'
+Parent URL http://localhost:8000/page1/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./'
+Name       `Page1'
+Parent URL http://localhost:8000/page1/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 2.731 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/page1/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `../css/highlight.css'
+Parent URL http://localhost:8000/page1/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `../css/base.css'
+Parent URL http://localhost:8000/page1/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `../css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/page1/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `../css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/page1/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `../img/favicon.ico'
+Parent URL http://localhost:8000/page1/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `https://pouicr.github.com/page1/'
+Parent URL http://localhost:8000/page1/, line 9, col 9
+Real URL   https://pouicr.github.com/page1/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `page1/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000, line 89, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/page1/, line 133, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `#menu'
+Name       `menu'
+Parent URL http://localhost:8000/page1/, line 116, col 17
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#page1'
+Name       `page1'
+Parent URL http://localhost:8000/page1/, line 114, col 33
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/page1/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `../page2/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000/page1/, line 89, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/page1/, line 78, col 21
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `../page2/'
+Name       `Page2'
+Parent URL http://localhost:8000/page1/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./'
+Name       `Page1'
+Parent URL http://localhost:8000/page1/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/page1/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `../css/highlight.css'
+Parent URL http://localhost:8000/page1/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `../css/base.css'
+Parent URL http://localhost:8000/page1/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `../css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/page1/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `../css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/page1/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `../img/favicon.ico'
+Parent URL http://localhost:8000/page1/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `https://pouicr.github.com/page1/'
+Parent URL http://localhost:8000/page1/, line 9, col 9
+Real URL   https://pouicr.github.com/page1/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000, line 140, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `./js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000, line 141, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `./js/highlight.pack.js'
+Parent URL http://localhost:8000, line 142, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `./mkdocs/js/require.js'
+Parent URL http://localhost:8000, line 144, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `./js/base.js'
+Parent URL http://localhost:8000, line 145, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `../fonts/glyphicons-halflings-regular.eot'
+Parent URL http://localhost:8000/css/bootstrap-custom.min.css, line 1, col 36239
+Real URL   http://localhost:8000/fonts/glyphicons-halflings-regular.eot
+Check time 3.780 seconds
+Size       69B
+Result     Error: 404 Not Found
+
+URL        `../fonts/glyphicons-halflings-regular.eot?#iefix'
+Parent URL http://localhost:8000/css/bootstrap-custom.min.css, line 1, col 36292
+Real URL   http://localhost:8000/fonts/glyphicons-halflings-regular.eot#iefix
+Check time 3.290 seconds
+Size       69B
+Result     Error: 404 Not Found
+
+URL        `../fonts/glyphicons-halflings-regular.woff'
+Parent URL http://localhost:8000/css/bootstrap-custom.min.css, line 1, col 36376
+Real URL   http://localhost:8000/fonts/glyphicons-halflings-regular.woff
+Check time 3.746 seconds
+Size       69B
+Result     Error: 404 Not Found
+
+URL        `../fonts/glyphicons-halflings-regular.ttf'
+Parent URL http://localhost:8000/css/bootstrap-custom.min.css, line 1, col 36441
+Real URL   http://localhost:8000/fonts/glyphicons-halflings-regular.ttf
+Check time 3.452 seconds
+Size       69B
+Result     Error: 404 Not Found
+
+URL        `../page1/'
+Name       `Page1'
+Parent URL http://localhost:8000/page2/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `../page1/'
+Name       `\n                             Previous\n                        '
+Parent URL http://localhost:8000/page2/, line 84, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `../js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/page2/, line 134, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `../js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/page2/, line 135, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `../js/highlight.pack.js'
+Parent URL http://localhost:8000/page2/, line 136, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `../mkdocs/js/require.js'
+Parent URL http://localhost:8000/page2/, line 138, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `../js/base.js'
+Parent URL http://localhost:8000/page2/, line 139, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular'
+Parent URL http://localhost:8000/css/bootstrap-custom.min.css, line 1, col 36509
+Real URL   http://localhost:8000/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular
+Check time 3.259 seconds
+Size       69B
+Result     Error: 404 Not Found
+
+URL        `../fonts/fontawesome-webfont.eot?v=4.0.3'
+Parent URL http://localhost:8000/css/font-awesome-4.0.3.css, line 5, col 11
+Real URL   http://localhost:8000/fonts/fontawesome-webfont.eot?v=4.0.3
+Check time 3.093 seconds
+Size       37.31KB
+Result     Valid: 200 OK
+
+URL        `../fonts/fontawesome-webfont.eot?#iefix&v=4.0.3'
+Parent URL http://localhost:8000/css/font-awesome-4.0.3.css, line 6, col 11
+Real URL   http://localhost:8000/fonts/fontawesome-webfont.eot#iefix%26v%3D4.0.3
+Check time 3.175 seconds
+Size       37.31KB
+Result     Valid: 200 OK
+
+URL        `../js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/page1/, line 136, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `../js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/page1/, line 137, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `../js/highlight.pack.js'
+Parent URL http://localhost:8000/page1/, line 138, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `../mkdocs/js/require.js'
+Parent URL http://localhost:8000/page1/, line 140, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `../js/base.js'
+Parent URL http://localhost:8000/page1/, line 141, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `../fonts/fontawesome-webfont.woff?v=4.0.3'
+Parent URL http://localhost:8000/css/font-awesome-4.0.3.css, line 6, col 95
+Real URL   http://localhost:8000/fonts/fontawesome-webfont.woff?v=4.0.3
+Check time 3.261 seconds
+Size       43.39KB
+Result     Valid: 200 OK
+
+URL        `../fonts/fontawesome-webfont.ttf?v=4.0.3'
+Parent URL http://localhost:8000/css/font-awesome-4.0.3.css, line 6, col 160
+Real URL   http://localhost:8000/fonts/fontawesome-webfont.ttf?v=4.0.3
+Check time 3.261 seconds
+Size       78.76KB
+Result     Valid: 200 OK
+
+URL        `../fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular'
+Parent URL http://localhost:8000/css/font-awesome-4.0.3.css, line 6, col 228
+Real URL   http://localhost:8000/fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular
+Check time 3.258 seconds
+Size       197.41KB
+Result     Valid: 200 OK
+
+URL        `../js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/page1/, line 136, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `../js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/page1/, line 137, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `../js/highlight.pack.js'
+Parent URL http://localhost:8000/page1/, line 138, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `../mkdocs/js/require.js'
+Parent URL http://localhost:8000/page1/, line 140, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `../js/base.js'
+Parent URL http://localhost:8000/page1/, line 141, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `../img/grid.png'
+Parent URL http://localhost:8000/css/base.css, line 3, col 20
+Real URL   http://localhost:8000/img/grid.png
+Check time 3.412 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `..'
+Name       `MyDoc'
+Parent URL http://localhost:8000/page2/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.763 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./js/base.js'
+Parent URL http://localhost:8000/, line 145, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `./mkdocs/js/require.js'
+Parent URL http://localhost:8000/, line 144, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `./js/highlight.pack.js'
+Parent URL http://localhost:8000/, line 142, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `./js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/, line 141, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/, line 137, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/, line 140, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `#item-2'
+Name       `Item 2'
+Parent URL http://localhost:8000/, line 118, col 17
+Real URL   http://localhost:8000/
+Check time 3.763 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#item-1'
+Name       `Item 1'
+Parent URL http://localhost:8000/, line 116, col 17
+Real URL   http://localhost:8000/
+Check time 3.763 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#demo'
+Name       `Demo'
+Parent URL http://localhost:8000/, line 114, col 33
+Real URL   http://localhost:8000/
+Check time 3.763 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `page1/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000/, line 89, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/, line 78, col 21
+Real URL   http://localhost:8000/
+Check time 3.763 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page2/'
+Name       `Page2'
+Parent URL http://localhost:8000/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page1/'
+Name       `Page1'
+Parent URL http://localhost:8000/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `Home'
+Parent URL http://localhost:8000/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.763 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `MyDoc'
+Parent URL http://localhost:8000/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.763 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/highlight.css'
+Parent URL http://localhost:8000/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `./css/base.css'
+Parent URL http://localhost:8000/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `./css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `./img/favicon.ico'
+Parent URL http://localhost:8000/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `https://pouicr.github.com/'
+Parent URL http://localhost:8000/, line 9, col 9
+Real URL   https://pouicr.github.com/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `https://pouicr.github.com/'
+Parent URL http://localhost:8000/, line 9, col 9
+Real URL   https://pouicr.github.com/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./js/base.js'
+Parent URL http://localhost:8000/, line 145, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `./mkdocs/js/require.js'
+Parent URL http://localhost:8000/, line 144, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `..'
+Name       `Home'
+Parent URL http://localhost:8000/page2/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.399 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./js/highlight.pack.js'
+Parent URL http://localhost:8000/, line 142, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `./js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/, line 141, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `#item-2'
+Name       `Item 2'
+Parent URL http://localhost:8000/, line 118, col 17
+Real URL   http://localhost:8000/
+Check time 3.399 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/, line 137, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/, line 140, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `#item-1'
+Name       `Item 1'
+Parent URL http://localhost:8000/, line 116, col 17
+Real URL   http://localhost:8000/
+Check time 3.399 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#demo'
+Name       `Demo'
+Parent URL http://localhost:8000/, line 114, col 33
+Real URL   http://localhost:8000/
+Check time 3.399 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `page1/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000/, line 89, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page1/'
+Name       `Page1'
+Parent URL http://localhost:8000/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `Home'
+Parent URL http://localhost:8000/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.399 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `MyDoc'
+Parent URL http://localhost:8000/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.399 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/highlight.css'
+Parent URL http://localhost:8000/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `./css/base.css'
+Parent URL http://localhost:8000/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/, line 78, col 21
+Real URL   http://localhost:8000/
+Check time 3.399 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `page2/'
+Name       `Page2'
+Parent URL http://localhost:8000/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./img/favicon.ico'
+Parent URL http://localhost:8000/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `..'
+Name       `MyDoc'
+Parent URL http://localhost:8000/page1/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.575 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./js/base.js'
+Parent URL http://localhost:8000/, line 145, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `./mkdocs/js/require.js'
+Parent URL http://localhost:8000/, line 144, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `./js/highlight.pack.js'
+Parent URL http://localhost:8000/, line 142, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `./js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/, line 141, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `./js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/, line 140, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/, line 137, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `#item-2'
+Name       `Item 2'
+Parent URL http://localhost:8000/, line 118, col 17
+Real URL   http://localhost:8000/
+Check time 3.575 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#item-1'
+Name       `Item 1'
+Parent URL http://localhost:8000/, line 116, col 17
+Real URL   http://localhost:8000/
+Check time 3.575 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#demo'
+Name       `Demo'
+Parent URL http://localhost:8000/, line 114, col 33
+Real URL   http://localhost:8000/
+Check time 3.575 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `page1/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000/, line 89, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/, line 78, col 21
+Real URL   http://localhost:8000/
+Check time 3.575 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page2/'
+Name       `Page2'
+Parent URL http://localhost:8000/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page1/'
+Name       `Page1'
+Parent URL http://localhost:8000/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `Home'
+Parent URL http://localhost:8000/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.575 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `MyDoc'
+Parent URL http://localhost:8000/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.575 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./css/highlight.css'
+Parent URL http://localhost:8000/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `./css/base.css'
+Parent URL http://localhost:8000/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `./css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `./img/favicon.ico'
+Parent URL http://localhost:8000/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `https://pouicr.github.com/'
+Parent URL http://localhost:8000/, line 9, col 9
+Real URL   https://pouicr.github.com/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `.'
+Name       `Home'
+Parent URL http://localhost:8000/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.500 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `MyDoc'
+Parent URL http://localhost:8000/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.500 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./css/highlight.css'
+Parent URL http://localhost:8000/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `./css/base.css'
+Parent URL http://localhost:8000/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `./css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `./img/favicon.ico'
+Parent URL http://localhost:8000/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `https://pouicr.github.com/'
+Parent URL http://localhost:8000/, line 9, col 9
+Real URL   https://pouicr.github.com/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./js/base.js'
+Parent URL http://localhost:8000/, line 145, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `./mkdocs/js/require.js'
+Parent URL http://localhost:8000/, line 144, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `./js/highlight.pack.js'
+Parent URL http://localhost:8000/, line 142, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `./js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/, line 141, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `./js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/, line 140, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/, line 137, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `..'
+Name       `Home'
+Parent URL http://localhost:8000/page1/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.500 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#item-1'
+Name       `Item 1'
+Parent URL http://localhost:8000/, line 116, col 17
+Real URL   http://localhost:8000/
+Check time 3.500 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#demo'
+Name       `Demo'
+Parent URL http://localhost:8000/, line 114, col 33
+Real URL   http://localhost:8000/
+Check time 3.500 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#item-2'
+Name       `Item 2'
+Parent URL http://localhost:8000/, line 118, col 17
+Real URL   http://localhost:8000/
+Check time 3.500 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page1/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000/, line 89, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/, line 78, col 21
+Real URL   http://localhost:8000/
+Check time 3.500 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page2/'
+Name       `Page2'
+Parent URL http://localhost:8000/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page1/'
+Name       `Page1'
+Parent URL http://localhost:8000/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `..'
+Name       `\n                             Previous\n                        '
+Parent URL http://localhost:8000/page1/, line 84, col 25
+Real URL   http://localhost:8000/
+Check time 3.564 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./js/base.js'
+Parent URL http://localhost:8000/, line 145, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `./mkdocs/js/require.js'
+Parent URL http://localhost:8000/, line 144, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `./js/highlight.pack.js'
+Parent URL http://localhost:8000/, line 142, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `./js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/, line 141, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `./js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/, line 140, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/, line 137, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `#item-2'
+Name       `Item 2'
+Parent URL http://localhost:8000/, line 118, col 17
+Real URL   http://localhost:8000/
+Check time 3.564 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#item-1'
+Name       `Item 1'
+Parent URL http://localhost:8000/, line 116, col 17
+Real URL   http://localhost:8000/
+Check time 3.564 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#demo'
+Name       `Demo'
+Parent URL http://localhost:8000/, line 114, col 33
+Real URL   http://localhost:8000/
+Check time 3.564 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `page1/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000/, line 89, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/, line 78, col 21
+Real URL   http://localhost:8000/
+Check time 3.564 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `Home'
+Parent URL http://localhost:8000/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.564 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page1/'
+Name       `Page1'
+Parent URL http://localhost:8000/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `page2/'
+Name       `Page2'
+Parent URL http://localhost:8000/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `MyDoc'
+Parent URL http://localhost:8000/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.564 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/highlight.css'
+Parent URL http://localhost:8000/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `./css/base.css'
+Parent URL http://localhost:8000/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `./css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `./img/favicon.ico'
+Parent URL http://localhost:8000/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `https://pouicr.github.com/'
+Parent URL http://localhost:8000/, line 9, col 9
+Real URL   https://pouicr.github.com/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `.'
+Name       `MyDoc'
+Parent URL http://localhost:8000/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.610 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/, line 141, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `..'
+Name       `MyDoc'
+Parent URL http://localhost:8000/page1/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.610 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./js/base.js'
+Parent URL http://localhost:8000/, line 145, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `./mkdocs/js/require.js'
+Parent URL http://localhost:8000/, line 144, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `./js/highlight.pack.js'
+Parent URL http://localhost:8000/, line 142, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/, line 137, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `#item-2'
+Name       `Item 2'
+Parent URL http://localhost:8000/, line 118, col 17
+Real URL   http://localhost:8000/
+Check time 3.610 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `page1/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000/, line 89, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/, line 78, col 21
+Real URL   http://localhost:8000/
+Check time 3.610 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page2/'
+Name       `Page2'
+Parent URL http://localhost:8000/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#demo'
+Name       `Demo'
+Parent URL http://localhost:8000/, line 114, col 33
+Real URL   http://localhost:8000/
+Check time 3.610 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `Home'
+Parent URL http://localhost:8000/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.610 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page1/'
+Name       `Page1'
+Parent URL http://localhost:8000/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#item-1'
+Name       `Item 1'
+Parent URL http://localhost:8000/, line 116, col 17
+Real URL   http://localhost:8000/
+Check time 3.610 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/highlight.css'
+Parent URL http://localhost:8000/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `./css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `./css/base.css'
+Parent URL http://localhost:8000/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `https://pouicr.github.com/'
+Parent URL http://localhost:8000/, line 9, col 9
+Real URL   https://pouicr.github.com/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/, line 140, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `./img/favicon.ico'
+Parent URL http://localhost:8000/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./css/highlight.css'
+Parent URL http://localhost:8000/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `./css/base.css'
+Parent URL http://localhost:8000/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `./css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `MyDoc'
+Parent URL http://localhost:8000/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.862 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./img/favicon.ico'
+Parent URL http://localhost:8000/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `https://pouicr.github.com/'
+Parent URL http://localhost:8000/, line 9, col 9
+Real URL   https://pouicr.github.com/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `page1/'
+Name       `Page1'
+Parent URL http://localhost:8000/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `Home'
+Parent URL http://localhost:8000/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.862 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/, line 78, col 21
+Real URL   http://localhost:8000/
+Check time 3.862 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page2/'
+Name       `Page2'
+Parent URL http://localhost:8000/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./mkdocs/js/require.js'
+Parent URL http://localhost:8000/, line 144, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `./js/highlight.pack.js'
+Parent URL http://localhost:8000/, line 142, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `./js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/, line 141, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `./js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/, line 140, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/, line 137, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./js/base.js'
+Parent URL http://localhost:8000/, line 145, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `#item-1'
+Name       `Item 1'
+Parent URL http://localhost:8000/, line 116, col 17
+Real URL   http://localhost:8000/
+Check time 3.862 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page1/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000/, line 89, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#demo'
+Name       `Demo'
+Parent URL http://localhost:8000/, line 114, col 33
+Real URL   http://localhost:8000/
+Check time 3.862 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#item-2'
+Name       `Item 2'
+Parent URL http://localhost:8000/, line 118, col 17
+Real URL   http://localhost:8000/
+Check time 3.862 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `..'
+Name       `Home'
+Parent URL http://localhost:8000/page1/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.862 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page1/'
+Name       `Page1'
+Parent URL http://localhost:8000/, line 63, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `page2/'
+Name       `Page2'
+Parent URL http://localhost:8000/, line 69, col 25
+Real URL   http://localhost:8000/page2/
+Check time 2.219 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#item-2'
+Name       `Item 2'
+Parent URL http://localhost:8000/, line 118, col 17
+Real URL   http://localhost:8000/
+Check time 3.818 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#item-1'
+Name       `Item 1'
+Parent URL http://localhost:8000/, line 116, col 17
+Real URL   http://localhost:8000/
+Check time 3.818 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://www.mkdocs.org/'
+Name       `MkDocs'
+Parent URL http://localhost:8000/, line 137, col 41
+Real URL   http://www.mkdocs.org/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `..'
+Name       `\n                             Previous\n                        '
+Parent URL http://localhost:8000/page1/, line 84, col 25
+Real URL   http://localhost:8000/
+Check time 3.818 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./js/base.js'
+Parent URL http://localhost:8000/, line 145, col 9
+Real URL   http://localhost:8000/js/base.js
+Check time 3.874 seconds
+Size       1021B
+Result     Valid: 200 OK
+
+URL        `./mkdocs/js/require.js'
+Parent URL http://localhost:8000/, line 144, col 9
+Real URL   http://localhost:8000/mkdocs/js/require.js
+Check time 3.737 seconds
+Size       14.93KB
+Result     Valid: 200 OK
+
+URL        `./js/highlight.pack.js'
+Parent URL http://localhost:8000/, line 142, col 9
+Real URL   http://localhost:8000/js/highlight.pack.js
+Check time 4.053 seconds
+Size       293.71KB
+Result     Valid: 200 OK
+
+URL        `./js/bootstrap-3.0.3.min.js'
+Parent URL http://localhost:8000/, line 141, col 9
+Real URL   http://localhost:8000/js/bootstrap-3.0.3.min.js
+Check time 4.193 seconds
+Size       27.17KB
+Result     Valid: 200 OK
+
+URL        `./js/jquery-1.10.2.min.js'
+Parent URL http://localhost:8000/, line 140, col 9
+Real URL   http://localhost:8000/js/jquery-1.10.2.min.js
+Check time 3.771 seconds
+Size       90.92KB
+Result     Valid: 200 OK
+
+URL        `#demo'
+Name       `Demo'
+Parent URL http://localhost:8000/, line 114, col 33
+Real URL   http://localhost:8000/
+Check time 3.818 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `https://github.com/pouicr/dockerfiles'
+Name       `\n                            \n                                \n                            \n                            GitHub\n                        '
+Parent URL http://localhost:8000/, line 96, col 25
+Real URL   https://github.com/pouicr/dockerfiles
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `page1/'
+Name       `\n                            Next \n                        '
+Parent URL http://localhost:8000/, line 89, col 25
+Real URL   http://localhost:8000/page1/
+Check time 3.255 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `#'
+Name       `\n                         Search\n                    '
+Parent URL http://localhost:8000/, line 78, col 21
+Real URL   http://localhost:8000/
+Check time 3.818 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `Home'
+Parent URL http://localhost:8000/, line 57, col 25
+Real URL   http://localhost:8000/
+Check time 3.818 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `.'
+Name       `MyDoc'
+Parent URL http://localhost:8000/, line 46, col 13
+Real URL   http://localhost:8000/
+Check time 3.818 seconds
+D/L time   0.000 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `http://0.0.0.0:8000/livereload.js'
+Parent URL http://localhost:8000/, line 26, col 5
+Real URL   http://0.0.0.0:8000/livereload.js
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+URL        `./css/highlight.css'
+Parent URL http://localhost:8000/, line 17, col 9
+Real URL   http://localhost:8000/css/highlight.css
+Check time 1.483 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `./css/base.css'
+Parent URL http://localhost:8000/, line 16, col 9
+Real URL   http://localhost:8000/css/base.css
+Check time 2.084 seconds
+Size       5KB
+Result     Valid: 200 OK
+
+URL        `./css/font-awesome-4.0.3.css'
+Parent URL http://localhost:8000/, line 15, col 9
+Real URL   http://localhost:8000/css/font-awesome-4.0.3.css
+Check time 1.131 seconds
+Size       21.15KB
+Result     Valid: 200 OK
+
+URL        `./css/bootstrap-custom.min.css'
+Parent URL http://localhost:8000/, line 14, col 9
+Real URL   http://localhost:8000/css/bootstrap-custom.min.css
+Check time 0.793 seconds
+Size       105.06KB
+Result     Valid: 200 OK
+
+URL        `./img/favicon.ico'
+Parent URL http://localhost:8000/, line 10, col 9
+Real URL   http://localhost:8000/img/favicon.ico
+Check time 0.287 seconds
+Size       1KB
+Result     Valid: 200 OK
+
+URL        `https://pouicr.github.com/'
+Parent URL http://localhost:8000/, line 9, col 9
+Real URL   https://pouicr.github.com/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Valid: filtered
+
+Statistics:
+Downloaded: 203.73KB.
+Content types: 14 image, 160 text, 0 video, 0 audio, 64 application, 0 mail and 50 other.
+URL lengths: min=17, max=88, avg=33.
+
+That's it. 288 links in 24 URLs checked. 0 warnings found. 5 errors found.
+Stopped checking at 2015-12-07 15:00:39+000 (11 seconds)
